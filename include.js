@@ -6235,6 +6235,15 @@ let cards = [
     author: "Eder",
     githubLink: "https://github.com/EderIRE",
   }
+  let cards = [
+  //  Add your card in this section
+  {
+    pageLink: "file:///C:/Users/bhatt/Desktop/CSS-Art/Art/abhibhatt48/index.html",
+    imageLink: "C:\Users\bhatt\Desktop\CSS-Art\Art\abhibhatt48",
+    author: "Abhi",
+    githubLink: "https://github.com/abhibhatt48",
+  },
+]
 ];
 
 // +--------------------------------------------------------------------------------+
